@@ -57,6 +57,7 @@ a {
 h1 {
   font-size: 18px;
   word-spacing: 42px;
+  height: 20px;
 }
 
 h2 {
@@ -107,7 +108,11 @@ p {
   color: white;
   width: 588px;
 }
-.p1 {}
+.p1 {
+  margin-top: 40px;
+  width: 1550px;
+  height: auto;
+}
 
 .p2{
   color: white;
