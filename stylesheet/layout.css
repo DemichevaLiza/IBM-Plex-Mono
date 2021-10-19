@@ -65,13 +65,17 @@ h2 {
   font-size: 48px;
   text-transform: uppercase;
   margin-bottom: 48px;
+  margin-left: 61px;
 }
-
+.h1{
+  margin-top: 20px;
+}
 .h2{
   font-size: 48px;
   text-transform: uppercase;
   margin-top: 200px;
   margin-bottom: 48px;
+  margin-left: 61px;
 }
 
 .h {
@@ -97,6 +101,7 @@ h5{
   font-size: 48px;
   text-transform: uppercase;
   margin-top: 0px;
+  margin-bottom: 48px;
 }
 p {
   text-align:left;
@@ -152,6 +157,14 @@ p {
   font-size: 18px;
   width: 289px;
   margin-top: 0px;
+  margin-left: 61px;
+}
+
+.p8 {
+  text-align: left;
+  font-size: 24px;
+  color: white;
+  width: 588px;
   margin-left: 61px;
 }
 
