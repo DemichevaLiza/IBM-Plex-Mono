@@ -8,13 +8,12 @@
 
 h1, h2, h3, h5, p {
   margin-left: 61px;
-  font-style: normal;
-  font-family: 'IBM Plex Mono';
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 div{
   font-style: normal;
-  font-family: 'IBM Plex Mono';
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 img {
@@ -92,8 +91,7 @@ h3 {
 h4{
   font-size: 48px;
   text-transform: uppercase;
-  font-style: normal;
-  font-family: 'IBM Plex Mono';
+  font-family: 'IBM Plex Mono', monospace;
   margin-bottom: 48px;
 }
 
@@ -182,8 +180,7 @@ color: white;
 width: 519px;
 padding: 10px;
 text-align: center;
-font-style: normal;
-font-family: 'IBM Plex Mono';
+font-family: 'IBM Plex Mono', monospace;
 }
 
 .tekst_sverhu_kartinki2 {
@@ -196,8 +193,7 @@ color: white;
 width: 584px;
 padding: 10px;
 text-align: left;
-font-style: normal;
-font-family: 'IBM Plex Mono';
+font-family: 'IBM Plex Mono', monospace;
 }
 
 .name {
@@ -208,8 +204,7 @@ font-family: 'IBM Plex Mono';
   color: white;
   width: auto;
   margin-left: 48px;
-  font-style: normal;
-  font-family: 'IBM Plex Mono';
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 .br {
@@ -220,6 +215,5 @@ font-family: 'IBM Plex Mono';
   color: white;
   width: auto;
   margin-left: 48px;
-  font-style: normal;
-  font-family: 'IBM Plex Mono';
+  font-family: 'IBM Plex Mono', monospace;
 }
